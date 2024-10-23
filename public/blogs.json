@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "title": "The Dawn of AI: Exploring the Future",
+      "cover": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      "authorName": "Jane Doe",
+      "authorRealImg": "https://images.unsplash.com/photo-1554151228-14d9def656e4",
+      "readingTime": 8,
+      "postDate": "2024-10-20",
+      "hashtags": ["#AI", "#Technology", "#Future", "#Innovation"]
+    },
+    {
+      "id": 2,
+      "title": "Mastering JavaScript: Tips and Tricks",
+      "cover": "https://images.unsplash.com/photo-1517430816045-df4b7de7f48f",
+      "authorName": "John Smith",
+      "authorRealImg": "https://images.unsplash.com/photo-1511367461989-f85a21fda167",
+      "readingTime": 12,
+      "postDate": "2024-10-18",
+      "hashtags": ["#JavaScript", "#Programming", "#WebDevelopment", "#Coding"]
+    },
+    {
+      "id": 3,
+      "title": "Understanding the EU-UK Relations Post-Brexit",
+      "cover": "https://images.unsplash.com/photo-1527236438218-d82077ae1f85",
+      "authorName": "Emily Clark",
+      "authorRealImg": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e",
+      "readingTime": 15,
+      "postDate": "2024-10-15",
+      "hashtags": ["#Brexit", "#EU", "#UK", "#Politics"]
+    },
+    {
+      "id": 4,
+      "title": "The Best Places to Visit on a 40 Lakh Taka Budget",
+      "cover": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "authorName": "David Lee",
+      "authorRealImg": "https://images.unsplash.com/photo-1527980965255-d3b416303d12",
+      "readingTime": 10,
+      "postDate": "2024-10-10",
+      "hashtags": ["#Travel", "#BudgetTravel", "#Asia", "#Adventure"]
+    },
+    {
+      "id": 5,
+      "title": "Healthy Habits to Improve Time Management",
+      "cover": "https://images.unsplash.com/photo-1580910051072-86027c2cb872",
+      "authorName": "Sara Thompson",
+      "authorRealImg": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
+      "readingTime": 6,
+      "postDate": "2024-10-05",
+      "hashtags": ["#Productivity", "#TimeManagement", "#SelfImprovement", "#Habits"]
+    }
+  ]
+  
